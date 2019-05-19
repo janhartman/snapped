@@ -1,0 +1,5 @@
+__pycache__
+static/snap_*
+images
+results/*.jpg
+*.pickle
